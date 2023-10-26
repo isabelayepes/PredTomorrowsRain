@@ -2,6 +2,7 @@
 
 Brief Summary: Regression and classifier machine learning models are used to predict the next day’s rainfall. Neural network regression, random forest, and XGBoost classifiers are trained on South Florida 2015 data with 44 features including the current day’s total rainfall, temperature, wind, surface pressure, wind, vegetation levels, and more. Then models are tested on NYC and South Florida 2022 December data. Temperature, the current day’s rainfall, and surface pressure were the top three predictive features. XGBoost was the best overall model based on F1 score.
 
+Extended Summary:
 
 My project goal was to predict tomorrow's rain using the current day's rainfall, temperature, wind surface pressure, and other features. I used machine learning regression and classifier models trained and tested on South Florida's 2015 data. Then, I tested it on New York City and South Florida's 2022 December data. 
 
